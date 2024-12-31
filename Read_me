@@ -1,0 +1,7 @@
+Python Version               : Python 3.10
+requests for web requests   (pip install requests)
+Pandas for dataframes       (pip install pandas)
+OracleDB for Database       (pip install oracledb)
+MatPlotlib for charting     (pip install matplotlib)
+Beautiful Soup for Scrape   (pip install beautifulsoup4)
+sqlalchemy                  (pip install sqlalchemy)
